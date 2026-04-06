@@ -12,6 +12,9 @@ Skills in this repo target the emerging open standard at **[agentskills/agentski
 
 ## Structure
 
-- [`skills/`](./skills) — Skills already created
+- [`skills/`](./skills) — Skills already created (first: [`format-evaluator`](./skills/format-evaluator/SKILL.md))
+- [`docs/format-rubric.md`](./docs/format-rubric.md) — Decision guide: plugin vs slash command vs skill vs subagent vs workspace
+- [`.claude/commands/`](./.claude/commands) — Slash commands: `/evaluate-format`, `/convert-to-skill`, `/document-skill`, `/bundle-skills`
+- [`.claude/agents/`](./.claude/agents) — Subagents: `skill-converter`, `format-rubric-reviewer`
 - [`candidates/`](./candidates) — Not-yet-planned skill ideas, split by category
 - [`planned/`](./planned) — Skills planned / to be developed
