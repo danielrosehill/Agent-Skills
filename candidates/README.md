@@ -28,3 +28,4 @@ Not-yet-planned skill ideas, split by category. User-authored unless noted.
 ## Agent-Sourced
 
 - [Agent finds](./agent-finds.md) — suggestions surfaced by the agent (repo scan, etc.)
+- [From Projects Index](./from-projects-index.md) — classified skill candidates imported from [Claude-Code-Projects-Index](https://github.com/danielrosehill/Claude-Code-Projects-Index)
