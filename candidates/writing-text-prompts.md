@@ -1,0 +1,22 @@
+# Writing / Text / Prompts
+
+- **AI Text Rewriting Toolbox** — many skills. [AI-Text-Rewriting-Toolbox](https://github.com/danielrosehill/AI-Text-Rewriting-Toolbox)
+- **Anonymisation Assistant** — redaction/text anonymisation. [Anonymisation-Assistant](https://github.com/danielrosehill/Anonymisation-Assistant)
+- **Smart PII redaction** *(no ref)*
+- **Claude Redaction & Obfuscation** — [Claude-Redaction-And-Obfuscation](https://github.com/danielrosehill/Claude-Redaction-And-Obfuscation)
+- **Text transformation index apply** — [Text-Transformation-And-Cleanup-Index](https://github.com/danielrosehill/Text-Transformation-And-Cleanup-Index)
+- **STT basic cleanup** — apply to any transcript. [STT-Basic-Cleanup-System-Prompt](https://github.com/danielrosehill/STT-Basic-Cleanup-System-Prompt)
+- **Text → SSML with prosody** — [Text-To-SSML-Generator](https://github.com/danielrosehill/Text-To-SSML-Generator)
+- **Tone of voice distiller** — [My-Tone-Of-Voice](https://github.com/danielrosehill/My-Tone-Of-Voice)
+- **System prompt factory** — [System-Prompt-Factory](https://github.com/danielrosehill/System-Prompt-Factory)
+- **Prompt → structured output format** *(no ref)*
+- **JSON conformity validator** *(no ref)*
+- **Prompt refactoring skills** *(no ref)*
+- **Personalised → general prompt** *(no ref)*
+- **Spec starter** — break long prompt/voice note into spec. [Claude-Spec-Starter](https://github.com/danielrosehill/Claude-Spec-Starter)
+- **Taxonomy generators** — [Taxonomy-Generators](https://github.com/danielrosehill/Taxonomy-Generators)
+- **Shakespearean / joke text** — [Shakespearean-Text-Generators](https://github.com/danielrosehill/Shakespearean-Text-Generators)
+- **Business↔casual** *(covered by built-in writing-editing skills)*
+- **Basic spellcheck** *(no ref)*
+- **Short-para + web readability audit** *(no ref)*
+- **Awesome-list refactor** — non-awesome → awesome format *(no ref)*

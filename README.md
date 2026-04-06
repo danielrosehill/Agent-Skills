@@ -13,6 +13,5 @@ Skills in this repo target the emerging open standard at **[agentskills/agentski
 ## Structure
 
 - [`skills/`](./skills) — Skills already created
+- [`candidates/`](./candidates) — Not-yet-planned skill ideas, split by category
 - [`planned/`](./planned) — Skills planned / to be developed
-  - [Candidates list](./planned/candidates.md) — organized backlog of skill ideas (user-authored)
-  - [Agent finds](./planned/agent-finds.md) — additional candidates surfaced by the agent

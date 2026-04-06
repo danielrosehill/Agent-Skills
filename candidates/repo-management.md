@@ -1,0 +1,22 @@
+# Repo Management
+
+- **Repo creator / jumper / retrofitter** — [Claude-Repo-Creator](https://github.com/danielrosehill/Claude-Repo-Creator), [Claude-Repo-Jumper](https://github.com/danielrosehill/Claude-Repo-Jumper), [Claude-Repo-Retrofitter](https://github.com/danielrosehill/Claude-Repo-Retrofitter)
+- **Make-Agent-Friendly** — refactor a repo. [Make-Agent-Friendly](https://github.com/danielrosehill/Make-Agent-Friendly)
+- **Repo Fresh Starter** — start new repo from current. [Repo-Fresh-Starter](https://github.com/danielrosehill/Repo-Fresh-Starter)
+- **Github repo pruner** — [Github-Repo-Pruner](https://github.com/danielrosehill/Github-Repo-Pruner)
+- **Github star organiser** — [Github-Star-Organiser](https://github.com/danielrosehill/Github-Star-Organiser)
+- **WIP index adder** — add repo to specific index (e.g. works-in-progress). [WIP-Index](https://github.com/danielrosehill/WIP-Index)
+- **Resource list / subindex / master index creator** *(no ref)*
+- **Is-Vibe-Coded badge adder** — [Is-Vibe-Coded](https://github.com/danielrosehill/Is-Vibe-Coded)
+- **Vibe-Coded disclosure adder** — [Vibe-Coded-Disclosure](https://github.com/danielrosehill/Vibe-Coded-Disclosure)
+- **AI-Friendly badge (website footer)** — [AI-Friendly-Badge](https://github.com/danielrosehill/AI-Friendly-Badge)
+- **AI-Human attribution adder** — [AI-Human-Attribution-Adder](https://github.com/danielrosehill/AI-Human-Attribution-Adder)
+- **LLM attribution badges** — [LLM-Attribution-Badges](https://github.com/danielrosehill/LLM-Attribution-Badges)
+- **Repo refactor to standard layout** — code/docs/planning at one level *(no ref)*
+- **What-Reqs-Scanner** — remove venvs / scan reqs. [What-Reqs-Scanner](https://github.com/danielrosehill/What-Reqs-Scanner)
+- **uv setup/convert** — convert other envs to uv *(no ref)*
+- **No-Wheel-Inventions** — safeguard against reinvention. [No-Wheel-Inventions](https://github.com/danielrosehill/No-Wheel-Inventions)
+- **Debug a project** *(no ref)*
+- **Capture list of feature requests** *(no ref)*
+- **Apply list of edit instructions** *(no ref)*
+- **Bug report / feature request filer** *(no ref)*

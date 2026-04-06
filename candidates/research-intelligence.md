@@ -1,0 +1,21 @@
+# Research / Intelligence
+
+- **Business idea refinement** — [Business-Idea-Refinement-Agent](https://github.com/danielrosehill/Business-Idea-Refinement-Agent)
+- **Bias/censorship eval** — [Bias-Censorship-Eval-Tests](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests)
+- **Claude Dork** — platform-specific search strings. [Claude-Dork](https://github.com/danielrosehill/Claude-Dork)
+- **Gmail search string generator** — filtering *(partial ref: [Gmail-Search-Strings](https://github.com/danielrosehill/Gmail-Search-Strings))*
+- **Evidence bundling** — [Claude-Evidence-Assistant](https://github.com/danielrosehill/Claude-Evidence-Assistant)
+- **Georeaction researcher** — global geopol init. [Claude-Georeaction-Researcher](https://github.com/danielrosehill/Claude-Georeaction-Researcher)
+- **Geopol forecaster** — [Geopol-Forecaster-POC](https://github.com/danielrosehill/Geopol-Forecaster-POC)
+- **Media monitor** — media mentions for brand/org. [Claude-Media-Monitor](https://github.com/danielrosehill/Claude-Media-Monitor)
+- **OSINT investigator** — seed workspace + tools. [Claude-OSINT-Investigator](https://github.com/danielrosehill/Claude-OSINT-Investigator)
+- **Ecosystem mapper** — [Ecosystem-Mapper](https://github.com/danielrosehill/Ecosystem-Mapper)
+- **Tech research team** — stack research (SaaS, on-prem), Typst report gen. [Claude-Tech-Research-Team](https://github.com/danielrosehill/Claude-Tech-Research-Team)
+- **GH components summariser** — gather options from GH + recommend *(no ref)*
+- **Stack research skill** *(no ref)*
+- **Local online shopping recs** — with preference docs *(no ref)*
+- **Israeli tech shopping** — [Israeli-Tech-Shopping-MCP](https://github.com/danielrosehill/Israeli-Tech-Shopping-MCP)
+- **Computer upgrade evaluator** — vs known hardware baseline *(no ref)*
+- **Retailer whitelist updater** — [Retailer-Recommendations](https://github.com/danielrosehill/Retailer-Recommendations)
+- **You-Might-Like recs** — [You-Might-Like-Agent](https://github.com/danielrosehill/You-Might-Like-Agent)
+- **Movie recs** — based on preferences *(no ref)*

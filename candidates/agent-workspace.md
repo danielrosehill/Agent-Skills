@@ -1,0 +1,15 @@
+# Agent / Claude Workspace Infrastructure
+
+- **Agent-Junction setup** — [Agent-Junction](https://github.com/danielrosehill/Agent-Junction)
+- **Agent picker pattern** — pick agents for a project. [Claude-Agent-Picker-Pattern](https://github.com/danielrosehill/Claude-Agent-Picker-Pattern)
+- **Claude Janitor** — workspace cleanup. [Claude-Janitor](https://github.com/danielrosehill/Claude-Janitor)
+- **Claude scaffold** — scaffold any defined Claude workspace (e.g. job search strategist style). [Claude-Job-Search-Strategist](https://github.com/danielrosehill/Claude-Job-Search-Strategist)
+- **Claudify-This** — [Claudify-This](https://github.com/danielrosehill/Claudify-This)
+- **Declaude** — [Declaude](https://github.com/danielrosehill/Declaude)
+- **CLAUDE.md chunker** — [Claude-MD-Chunk](https://github.com/danielrosehill/Claude-MD-Chunk)
+- **ClaudeMD Turnstile / separate CLAUDEs writer** — [ClaudeMD-Turnstile](https://github.com/danielrosehill/ClaudeMD-Turnstile)
+- **Private/public CLAUDE.md split** — [Private-And-Public-Claude-MD](https://github.com/danielrosehill/Private-And-Public-Claude-MD), [Split-Claude-MD-Pattern](https://github.com/danielrosehill/Split-Claude-MD-Pattern), [Split-Context-Setup](https://github.com/danielrosehill/Split-Context-Setup)
+- **Linux desktop CLAUDE.md seeder** — [Linux-Desktop-ClaudeMD-Seeder](https://github.com/danielrosehill/Linux-Desktop-ClaudeMD-Seeder)
+- **New-turn Claude hook** — [New-Turn-Claude-Hook](https://github.com/danielrosehill/New-Turn-Claude-Hook)
+- **Slash commands bundle** — [Claude-Slash-Commands](https://github.com/danielrosehill/Claude-Slash-Commands)
+- **Linux desktop slash commands plugin** — [Claude-Code-Linux-Desktop-Slash-Commands](https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands)
